@@ -5,7 +5,7 @@
 1. I am a Front End developer currenlty working in Angular.
 2. 🌱 I am always interscted in learnign new Technology.
 3. Focusing in developing a good Problem solving mentality.
-4. 💬 Ask me about Tech
-5. 📫 How to reach me :
+4. 📫 How to reach me :
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-nair-)
 
 
