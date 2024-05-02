@@ -6,7 +6,8 @@
 - I am a Front End developer currently working in Angular.
 - 🌱 I am always interested in learning new technologies.
 - Focusing on developing a strong problem-solving mentality.
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-nair-)
+- 📫 How to reach me:
+  <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-nair-)
 - ⚡ Fun fact: I know Japanese and German.
 
 ### SkillSet
