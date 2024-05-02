@@ -5,7 +5,7 @@
 
 - 👨‍💻 I specialize in Front-End development.
 - 🌱 I am always interested in learning new technologies.
-- Focusing on developing a strong problem-solving mentality.
+- 💡Focusing on developing a strong problem-solving mentality.
 - 📫 How to reach me:
   <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-nair-)
 - ⚡ Fun fact: I know Japanese and German.
