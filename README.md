@@ -9,6 +9,9 @@
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/karthik-nair-)
 >5. ⚡ Fun fact: I know Japanese and German.
 
+### I code in
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>
+
 
 
 
