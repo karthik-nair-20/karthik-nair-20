@@ -7,7 +7,8 @@
 >3. Focusing in developing a good Problem solving mentality.
 >4. 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/karthik-nair-)
->- ⚡ Fun fact: I know Japanese and German.
+>5. ⚡ Fun fact: I know Japanese and German.
+
 
 
 
