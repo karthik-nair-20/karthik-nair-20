@@ -1,7 +1,7 @@
 ## Hi, My Name is Karthik Nair.
 > A Software Engineer -_-
 
-<img align="right" width="340" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhpamNncHJtM2p0cHBvODB4M2I4Nzk4YXVyMmE4N2RqbDEyMDE5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UA2Qg3CqCV1hnbUNRs/giphy.gif">
+<img align="right" width="340" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJiaWwxeG53ZXNzZmh3dmQ5a3ZqOGt1MnNxMWUzcTZhNG52ZWJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehgM1JRwNXAtaYDRzi/giphy-downsized-large.gif">
 
 - 👨‍💻 I specialize in Front-End development.
 - 🌱 I am always interested in learning new technologies.
