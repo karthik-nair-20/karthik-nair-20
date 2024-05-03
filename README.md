@@ -8,7 +8,6 @@
 - 💡Focusing on developing a strong problem-solving mentality.
 - 📫 How to reach me:
   <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-nair-)
-- ⚡ Fun fact: I know Japanese and German.
 - 📚 Continuously improving my skills through online courses and workshops.
 - 🎨 Love experimenting with UI/UX designs to create visually appealing interfaces.
 
