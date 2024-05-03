@@ -6,7 +6,7 @@
 - 👨‍💻 I specialize in Front-End development.
 - 🌱 I am always interested in learning new technologies.
 - 💡Focusing on developing a strong problem-solving mentality.
-- 📫 How to reach me:
+- 📫 To Reachout:
   <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-nair-)
 - 📚 Continuously improving my skills through online courses and workshops.
 - 🎨 Love experimenting with UI/UX designs to create visually appealing interfaces.
