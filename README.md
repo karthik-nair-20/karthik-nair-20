@@ -1,7 +1,6 @@
-## 👋 Hallo, ich bin Karthik Nair
->
+# 👋 Hallo, ich bin Karthik Nair
 
-<img align="right" width="330" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJiaWwxeG53ZXNzZmh3dmQ5a3ZqOGt1MnNxMWUzcTZhNG52ZWJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehgM1JRwNXAtaYDRzi/giphy-downsized-large.gif">
+<img align="right" width="450" height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJiaWwxeG53ZXNzZmh3dmQ5a3ZqOGt1MnNxMWUzcTZhNG52ZWJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehgM1JRwNXAtaYDRzi/giphy-downsized-large.gif">
 
 <!--  - 👨‍💻 I specialize in Front-End development.
 - 🌱 I am always interested in learning new technologies.
